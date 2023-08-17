@@ -3,9 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=9400D3&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Ricardo+Victor+%F0%9F%98%81;I'm+18+years+old!;I+am+from+Brazil+%E2%9A%BD;I'm+studying+software+engineering+%F0%9F%96%A5%EF%B8%8F;Welcome+to+my+repository!%F0%9F%98%89)](https://git.io/typing-svg)
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=victorRicardo1&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117" alt="Victor github stats"/>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorRicardo1&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&bg_color=0d1117"/>
-</div>
+  <img width="49%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=victorRicardo1&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117" alt="Victor github stats"/>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=victorRicardo1&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&bg_color=0d1117"/>
+</div> 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=victorRicardo1&bg_color=0d1117&color=9400d3&line=4b0082&point=ab78ab&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
