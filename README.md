@@ -1,6 +1,6 @@
 ## 👨🏻‍💻 **Ricardo Victor Marques Sampaio Pinheiro**
 
-```Automation & AI at Itaú Unibanco | Ambassador @Alura```
+```Neurotechnology & AI```
 
 Studying a Bachelor's Degree in Software Engineering (7th/8th semester) at FUCAPI University, passionate about gym, purpose, neurotechnology, gaming, and taking ideas off paper through code.
 
