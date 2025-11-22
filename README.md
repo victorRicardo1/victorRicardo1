@@ -7,7 +7,7 @@ Studying a Bachelor's Degree in Software Engineering (7th/8th semester) at FUCAP
 Reach me out here: <a href="mailto:ricardovictor737@gmail.com" target="__blank">ricardovictor737@gmail.com</a>
 
 ### Stacks
-[![My Skills](https://skillicons.dev/icons?i=ts,python,net,nestjs,angular,nodejs,mongodb,postgres,rabbitmq,bootstrap,aws,docker,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,python,net,fastapi,nestjs,angular,react,nodejs,mongodb,postgres,rabbitmq,bootstrap,aws,docker,git)](https://skillicons.dev)
 
 ### Contacts
 [![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/rictor_dev)
